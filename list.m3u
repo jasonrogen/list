@@ -1038,3 +1038,320 @@ http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAyW491tR4WjLYsBfZk1MXuU8vBuV0RLcU8pWQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="AFGHANISTAN",Ariana TV
 http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="########## India ##########" tvg-logo="http://pici.life/India.png" group-title="India",########## India ##########
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5597.ts
+#EXTINF:-1 tvg-id="9XM.in" tvg-name="9XM IN" tvg-logo="" group-title="India",9XM IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/4009.ts
+#EXTINF:-1 tvg-id="&pictures.in" tvg-name="&Picture HD IN" tvg-logo="" group-title="India",&Picture HD IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10622.ts
+#EXTINF:-1 tvg-id="9XM.in" tvg-name="9X Tashan IN" tvg-logo="" group-title="India",9X Tashan IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10617.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATN/NRDTV News Punjabi IN" tvg-logo="" group-title="India",ATN/NRDTV News Punjabi IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/4008.ts
+#EXTINF:-1 tvg-id="ABPNews.in" tvg-name="ABP News IN" tvg-logo="" group-title="India",ABP News IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3998.ts
+#EXTINF:-1 tvg-id="" tvg-name="Akash Bangla IN" tvg-logo="" group-title="India",Akash Bangla IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10597.ts
+#EXTINF:-1 tvg-id="" tvg-name="AND TV HD IN" tvg-logo="" group-title="India",AND TV HD IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3996.ts
+#EXTINF:-1 tvg-id="Asianet.in" tvg-name="Asianet IN" tvg-logo="" group-title="India",Asianet IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5575.ts
+#EXTINF:-1 tvg-id="AsianetMovies.in" tvg-name="Asianet Movies IN" tvg-logo="" group-title="India",Asianet Movies IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5577.ts
+#EXTINF:-1 tvg-id="Asianetnews.in" tvg-name="Asianet News IN" tvg-logo="" group-title="India",Asianet News IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5578.ts
+#EXTINF:-1 tvg-id="AsianetPlus.in" tvg-name="Asianet Plus IN" tvg-logo="" group-title="India",Asianet Plus IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5576.ts
+#EXTINF:-1 tvg-id="" tvg-name="Anand IN" tvg-logo="" group-title="India",Anand IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10595.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla IN" tvg-logo="" group-title="India",ATN Bangla IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10610.ts
+#EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak News IN" tvg-logo="" group-title="India",Aaj Tak News IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/11294.ts
+#EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha TV IN" tvg-logo="" group-title="India",Aastha TV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/11297.ts
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U Movies TV IN" tvg-logo="" group-title="India",B4U Movies TV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3994.ts
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U_Music / B4U_Plus IN" tvg-logo="" group-title="India",B4U_Music / B4U_Plus IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3993.ts
+#EXTINF:-1 tvg-id="" tvg-name="B4U Aflam IN" tvg-logo="" group-title="India",B4U Aflam IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10632.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bangla TV IN" tvg-logo="" group-title="India",Bangla TV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10598.ts
+#EXTINF:-1 tvg-id="" tvg-name="Banglavision IN" tvg-logo="" group-title="India",Banglavision IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10614.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bollywood Movies IN" tvg-logo="" group-title="India",Bollywood Movies IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/4007.ts
+#EXTINF:-1 tvg-id="ColorsGujarati.in" tvg-name="Colors Gujrati IN" tvg-logo="" group-title="India",Colors Gujrati IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3992.ts
+#EXTINF:-1 tvg-id="ChardiklaTimeTV.in" tvg-name="Chardikla Time TV IN" tvg-logo="" group-title="India",Chardikla Time TV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5563.ts
+#EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors IN" tvg-logo="" group-title="India",Colors IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5579.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-name="Cartoons Network IN" tvg-logo="" group-title="India",Cartoons Network IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10619.ts
+#EXTINF:-1 tvg-id="" tvg-name="Channel Bangla IN" tvg-logo="" group-title="India",Channel Bangla IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10620.ts
+#EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors ME IN" tvg-logo="" group-title="India",Colors ME IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10623.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBN Cricket IN" tvg-logo="" group-title="India",CBN Cricket IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/4006.ts
+#EXTINF:-1 tvg-id="" tvg-name="Desi Channel Punjabi IN" tvg-logo="" group-title="India",Desi Channel Punjabi IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/4005.ts
+#EXTINF:-1 tvg-id="" tvg-name="Deepto IN" tvg-logo="" group-title="India",Deepto IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10624.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dheeran IN" tvg-logo="" group-title="India",Dheeran IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10591.ts
+#EXTINF:-1 tvg-id="DhoomMusic.in" tvg-name="Dhoom Music IN" tvg-logo="" group-title="India",Dhoom Music IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10599.ts
+#EXTINF:-1 tvg-id="GeminiMovies.in" tvg-name="Gemini Movies IN" tvg-logo="" group-title="India",Gemini Movies IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10621.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood Classic IN" tvg-logo="" group-title="India",Hollywood Classic IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10625.ts
+#EXTINF:-1 tvg-id="IBCTamil.in" tvg-name="IBC Tamil IN" tvg-logo="" group-title="India",IBC Tamil IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10590.ts
+#EXTINF:-1 tvg-id="IndiaToday.in" tvg-name="India Today IN" tvg-logo="" group-title="India",India Today IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5561.ts
+#EXTINF:-1 tvg-id="IndiaTV.in" tvg-name="India TV IN" tvg-logo="" group-title="India",India TV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5562.ts
+#EXTINF:-1 tvg-id="" tvg-name="Independent TV IN" tvg-logo="" group-title="India",Independent TV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10600.ts
+#EXTINF:-1 tvg-id="" tvg-name="IZee TV IN" tvg-logo="" group-title="India",IZee TV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5588.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jaya Max USA IN" tvg-logo="" group-title="India",Jaya Max USA IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5582.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jaya Movies IN" tvg-logo="" group-title="India",Jaya Movies IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5581.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jaya Plus IN" tvg-logo="" group-title="India",Jaya Plus IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5580.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jamuna TV IN" tvg-logo="" group-title="India",Jamuna TV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10601.ts
+#EXTINF:-1 tvg-id="JanamTV.in" tvg-name="Janam TV IN" tvg-logo="" group-title="India",Janam TV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10627.ts
+#EXTINF:-1 tvg-id="Jaya.in" tvg-name="Jaya TV IN" tvg-logo="" group-title="India",Jaya TV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5583.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kaumudy IN" tvg-logo="" group-title="India",Kaumudy IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10593.ts
+#EXTINF:-1 tvg-id="KTV.in" tvg-name="KTV IN" tvg-logo="" group-title="India",KTV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5560.ts
+#EXTINF:-1 tvg-id="LifeOK.in" tvg-name="Life OK HD IN" tvg-logo="" group-title="India",Life OK HD IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5559.ts
+#EXTINF:-1 tvg-id="LivingFoodz.in" tvg-name="Living Foodz IN" tvg-logo="" group-title="India",Living Foodz IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10612.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV India IN" tvg-logo="" group-title="India",MTV India IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5556.ts
+#EXTINF:-1 tvg-id="" tvg-name="M Tunes IN" tvg-logo="" group-title="India",M Tunes IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5584.ts
+#EXTINF:-1 tvg-id="MAAGold.in" tvg-name="Maa Gold IN" tvg-logo="" group-title="India",Maa Gold IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5586.ts
+#EXTINF:-1 tvg-id="MAAMovies.in" tvg-name="Maa Movies IN" tvg-logo="" group-title="India",Maa Movies IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5585.ts
+#EXTINF:-1 tvg-id="" tvg-name="MK TV IN" tvg-logo="" group-title="India",MK TV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10588.ts
+#EXTINF:-1 tvg-id="MoviesOK.in" tvg-name="Movies OK IN" tvg-logo="" group-title="India",Movies OK IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5558.ts
+#EXTINF:-1 tvg-id="MTV.in" tvg-name="MTV IN" tvg-logo="" group-title="India",MTV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5557.ts
+#EXTINF:-1 tvg-id="" tvg-name="Maasaranga IN" tvg-logo="" group-title="India",Maasaranga IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10611.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mohona TV IN" tvg-logo="" group-title="India",Mohona TV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10587.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movie Bangla IN" tvg-logo="" group-title="India",Movie Bangla IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10613.ts
+#EXTINF:-1 tvg-id="MurasuTV.in" tvg-name="Murasu TV IN" tvg-logo="" group-title="India",Murasu TV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10596.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nepali TV IN" tvg-logo="" group-title="India",Nepali TV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10586.ts
+#EXTINF:-1 tvg-id="" tvg-name="News X IN" tvg-logo="" group-title="India",News X IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10592.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sub News IN" tvg-logo="" group-title="India",Sub News IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10618.ts
+#EXTINF:-1 tvg-id="" tvg-name="NTV IN" tvg-logo="" group-title="India",NTV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10602.ts
+#EXTINF:-1 tvg-id="" tvg-name="NTV Europe IN" tvg-logo="" group-title="India",NTV Europe IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10603.ts
+#EXTINF:-1 tvg-id="" tvg-name="NDTV 24/7 IN" tvg-logo="" group-title="India",NDTV 24/7 IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/19491.ts
+#EXTINF:-1 tvg-id="" tvg-name="NTV HD IN" tvg-logo="" group-title="India",NTV HD IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10589.ts
+#EXTINF:-1 tvg-id="PTCChakde.in" tvg-name="PTC Chakde IN" tvg-logo="" group-title="India",PTC Chakde IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5553.ts
+#EXTINF:-1 tvg-id="PTCNews.in" tvg-name="PTC News Punjabi IN" tvg-logo="" group-title="India",PTC News Punjabi IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5555.ts
+#EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-name="PTC Punjabi IN" tvg-logo="" group-title="India",PTC Punjabi IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5554.ts
+#EXTINF:-1 tvg-id="" tvg-name="Peppers TV IN" tvg-logo="" group-title="India",Peppers TV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10616.ts
+#EXTINF:-1 tvg-id="PolimerTV.in" tvg-name="Polimar TV IN" tvg-logo="" group-title="India",Polimar TV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10585.ts
+#EXTINF:-1 tvg-id="RajDigital Plus.in" tvg-name="Raj Digital Plus IN" tvg-logo="" group-title="India",Raj Digital Plus IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5551.ts
+#EXTINF:-1 tvg-id="RajMusix.in" tvg-name="Raj Musix IN" tvg-logo="" group-title="India",Raj Musix IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5550.ts
+#EXTINF:-1 tvg-id="" tvg-name="Raj News 24x7 IN" tvg-logo="" group-title="India",Raj News 24x7 IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5549.ts
+#EXTINF:-1 tvg-id="RajTV.in" tvg-name="Raj TV IN" tvg-logo="" group-title="India",Raj TV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5552.ts
+#EXTINF:-1 tvg-id="RishteyCineplex.in" tvg-name="Rishtey Cineplex IN" tvg-logo="" group-title="India",Rishtey Cineplex IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/11295.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rishtey Europe IN" tvg-logo="" group-title="India",Rishtey Europe IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/11296.ts
+#EXTINF:-1 tvg-id="RangTV.in" tvg-name="RTV IN" tvg-logo="" group-title="India",RTV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10626.ts
+#EXTINF:-1 tvg-id="RupashiBangla.in" tvg-name="Ruposhi Bangla IN" tvg-logo="" group-title="India",Ruposhi Bangla IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10604.ts
+#EXTINF:-1 tvg-id="" tvg-name="Safari TV IN" tvg-logo="" group-title="India",Safari TV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10628.ts
+#EXTINF:-1 tvg-id="" tvg-name="Santhora TV IN" tvg-logo="" group-title="India",Santhora TV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5564.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony ESPN IN" tvg-logo="" group-title="India",Sony ESPN IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3991.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Saab TV IN" tvg-logo="" group-title="India",Sony Saab TV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3987.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Set Max HD IN" tvg-logo="" group-title="India",Sony Set Max HD IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3986.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max IN" tvg-logo="" group-title="India",Sony Max IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3990.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max 2 IN" tvg-logo="" group-title="India",Sony Max 2 IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3989.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony MIX HD IN" tvg-logo="" group-title="India",Sony MIX HD IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3988.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pix IN" tvg-logo="" group-title="India",Sony Pix IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10606.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pix HD IN" tvg-logo="" group-title="India",Sony Pix HD IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10607.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony US IN" tvg-logo="" group-title="India",Sony US IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10609.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Six HD IN" tvg-logo="" group-title="India",Sony Six HD IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3985.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony TV IN" tvg-logo="" group-title="India",Sony TV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3984.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony TV UK IN" tvg-logo="" group-title="India",Sony TV UK IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/13175.ts
+#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="Star Plus UK HD IN" tvg-logo="" group-title="India",Star Plus UK HD IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/13174.ts
+#EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold HD IN" tvg-logo="" group-title="India",Star Gold HD IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3983.ts
+#EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha IN" tvg-logo="" group-title="India",Star Jalsha IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3982.ts
+#EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies HD IN" tvg-logo="" group-title="India",Star Movies HD IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3981.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 IN" tvg-logo="" group-title="India",Star Sports 1 IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3979.ts
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="Star Sports 1 Backup IN" tvg-logo="http://pici.life/all/star_sports_in_1.png" group-title="India",Star Sports 1 Backup IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3965.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 IN" tvg-logo="" group-title="India",Star Sports 2 IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/397844.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 3 IN" tvg-logo="" group-title="India",Star Sports 3 IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3977.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 3 Backup IN" tvg-logo="http://pici.life/all/star_sports_in_3.png" group-title="India",Star Sports 3 Backup IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3963.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 4 IN" tvg-logo="" group-title="India",Star Sports 4 IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3976.ts
+#EXTINF:-1 tvg-id="SunMusic.in" tvg-name="Sun Music IN" tvg-logo="" group-title="India",Sun Music IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3975.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sun TV IN" tvg-logo="" group-title="India",Sun TV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3974.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sun TV US IN" tvg-logo="" group-title="India",Sun TV US IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3973.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony FHD IN" tvg-logo="" group-title="India",Sony FHD IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5574.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sony Six IN" tvg-logo="" group-title="India",Sony Six IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5548.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Life OK IN" tvg-logo="" group-title="India",Star Life OK IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5544.ts
+#EXTINF:-1 tvg-id="StarGold.in" tvg-name="Star Gold Select HD IN" tvg-logo="" group-title="India",Star Gold Select HD IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/17864.ts
+#EXTINF:-1 tvg-id="StarPlus.in" tvg-name="Star Plus IN" tvg-logo="" group-title="India",Star Plus IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5546.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Vijay IN" tvg-logo="" group-title="India",Star Vijay IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5545.ts
+#EXTINF:-1 tvg-id="SunMusic.in" tvg-name="Sun Surya HD IN" tvg-logo="" group-title="India",Sun Surya HD IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5543.ts
+#EXTINF:-1 tvg-id="" tvg-name="Somoy News TV IN" tvg-logo="" group-title="India",Somoy News TV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10605.ts
+#EXTINF:-1 tvg-id="" tvg-name="Super TV IN" tvg-logo="" group-title="India",Super TV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10594.ts
+#EXTINF:-1 tvg-id="Ten1.in" tvg-name="Ten 1 HD IN" tvg-logo="" group-title="India",Ten 1 HD IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3972.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ten Action IN" tvg-logo="" group-title="India",Ten Action IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5589.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ten Cricket IN" tvg-logo="" group-title="India",Ten Cricket IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5590.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ten Sports IN" tvg-logo="" group-title="India",Ten Sports IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5591.ts
+#EXTINF:-1 tvg-id="UTVAction.in" tvg-name="UTV Action IN" tvg-logo="" group-title="India",UTV Action IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10608.ts
+#EXTINF:-1 tvg-id="" tvg-name="UTV Bindas IN" tvg-logo="" group-title="India",UTV Bindas IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5541.ts
+#EXTINF:-1 tvg-id="UTVMovies.in" tvg-name="UTV Movies IN" tvg-logo="" group-title="India",UTV Movies IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5542.ts
+#EXTINF:-1 tvg-id="UTVMovies.in" tvg-name="UTV Movies International IN" tvg-logo="" group-title="India",UTV Movies International IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5540.ts
+#EXTINF:-1 tvg-id="UTVMovies.in" tvg-name="UTV Movies US IN" tvg-logo="" group-title="India",UTV Movies US IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10615.ts
+#EXTINF:-1 tvg-id="" tvg-name="Willow IN" tvg-logo="" group-title="India",Willow IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10631.ts
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema HD IN" tvg-logo="" group-title="India",Zee Cinema HD IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/4002.ts
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema HD + IN" tvg-logo="" group-title="India",Zee Cinema HD + IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3967.ts
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="Zee Cinema IN" tvg-logo="" group-title="India",Zee Cinema IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3968.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema Inter IN" tvg-logo="" group-title="India",Zee Cinema Inter IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/4001.ts
+#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV IN" tvg-logo="" group-title="India",Zee TV IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/4000.ts
+#EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="Zee Action IN" tvg-logo="" group-title="India",Zee Action IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3971.ts
+#EXTINF:-1 tvg-id="ZeeAnmol.in" tvg-name="Zee Anmol Cinema IN" tvg-logo="" group-title="India",Zee Anmol Cinema IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3970.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bollwood HD IN" tvg-logo="" group-title="India",Zee Bollwood HD IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3969.ts
+#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV HD IN" tvg-logo="" group-title="India",Zee TV HD IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3966.ts
+#EXTINF:-1 tvg-id="ZeeAnmol.in" tvg-name="Zee Anmol IN" tvg-logo="" group-title="India",Zee Anmol IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5566.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla IN" tvg-logo="" group-title="India",Zee Bangla IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5592.ts
+#EXTINF:-1 tvg-id="Zee Business.in" tvg-name="Zee Business IN" tvg-logo="" group-title="India",Zee Business IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5570.ts
+#EXTINF:-1 tvg-id="ZeeClassic.in" tvg-name="Zee Classic IN" tvg-logo="" group-title="India",Zee Classic IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5565.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee ETC Bollywood IN" tvg-logo="" group-title="India",Zee ETC Bollywood IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5539.ts
+#EXTINF:-1 tvg-id="ZeeNews.in" tvg-name="Zee News IN" tvg-logo="" group-title="India",Zee News IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5568.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Punjabi IN" tvg-logo="" group-title="India",Zee Punjabi IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5571.ts
+#EXTINF:-1 tvg-id="ZeeSalaam.in" tvg-name="Zee Salam IN" tvg-logo="" group-title="India",Zee Salam IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5573.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Smile IN" tvg-logo="" group-title="India",Zee Smile IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5567.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Studio IN" tvg-logo="" group-title="India",Zee Studio IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5594.ts
+#EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-name="Zee Talkies IN" tvg-logo="" group-title="India",Zee Talkies IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5572.ts
+#EXTINF:-1 tvg-id="ZeeTamil.in" tvg-name="Zee Tamil IN" tvg-logo="" group-title="India",Zee Tamil IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5569.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Telugu HD IN" tvg-logo="" group-title="India",Zee Telugu HD IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5593.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee TV CA" tvg-logo="" group-title="Canada",Zee TV CA
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/17668.ts
+#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV US HD IN" tvg-logo="" group-title="India",Zee TV US HD IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/20912.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee TV UK IN" tvg-logo="" group-title="India",Zee TV UK IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5587.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Aflam IN" tvg-logo="" group-title="India",Zee Aflam IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10629.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Alwan IN" tvg-logo="" group-title="India",Zee Alwan IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/10630.ts
+#EXTINF:-1 tvg-id="Zing.in" tvg-name="Zing IN" tvg-logo="" group-title="India",Zing IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5596.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zing UK IN" tvg-logo="" group-title="India",Zing UK IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5595.ts
+#EXTINF:-1 tvg-id="Zoom.in" tvg-name="Zoom IN" tvg-logo="" group-title="India",Zoom IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/3999.ts
+#EXTINF:-1 tvg-id="Zoom.in" tvg-name="Zoom  IN" tvg-logo="" group-title="India",Zoom  IN
+http://mypanel.tv:8080/live/aomwixnu94/ngnte444ei/5538.ts
